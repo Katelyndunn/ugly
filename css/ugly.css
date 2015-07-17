@@ -2,28 +2,29 @@
   font-family: "Kristen ITC";
   src: url("KristenITC.ttf") format('truetype');
 }
-.title {
+.ugly-title {
   font-family: 	"Comic Sans MS", cursive, sans-serif;
   color: white;
   text-align: center;
 }
-body {
+.ugly-body {
   background-color: green;
-  text-align: right
+  text-align: right;
   <!-- DO BOOTSTRAP FOR ALIGNMENT -->
 }
-.picture {
+.ugly-picture {
   background-color: orange;
   width: 400px;
   height: 400px;
   float: left;
 }
-.greeter {
+.ugly-greeter {
   font-family: 	"Comic Sans MS", cursive, sans-serif;
   color: blue;
 }
-.text {
+.ugly-text {
   font-family: 	"Comic Sans MS", cursive, sans-serif; 
   color: yellow;
   text-align: right;
+  font-size: 2em;
 }
