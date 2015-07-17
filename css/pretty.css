@@ -7,9 +7,11 @@
   text-align: center;
 }
 .pretty-body {
-  background-color: #F2F2F3;
-  <!-- DO BOOTSTRAP FOR ALIGNMENT -->
+  background-image: url("http://subtlepatterns.com/patterns/brickwall.png");
+  background-attachment: fixed;
+  <!--BOOTSTRAP DONE FOR ALIGNMENT -->
 }
+
 
 .pretty-greeter {
   font-family: 'Fauna One', serif;
