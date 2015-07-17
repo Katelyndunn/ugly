@@ -14,10 +14,12 @@ body {
 .greeter {
   font-family: 'Fauna One', serif;
   color: #1FDA9A;
-  text-align: center;
+  text-align: left;
+  font-size: 1.6em;
 }
 .text {
   font-family: 'Fauna One', serif;
   color: #333435;
   text-align: center;
+  font-size: 1.6em;
 }
