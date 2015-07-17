@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(http://fonts.googleapis.com/css?family=Fauna+One);
+
+.title {
+  font-family: 'Playfair Display', serif;
+  color: #1FDA9A;
+  text-align: center;
+}
+body {
+  background-color: #F2F2F3;
+  <!-- DO BOOTSTRAP FOR ALIGNMENT -->
+}
+
+.greeter {
+  font-family: 'Fauna One', serif;
+  color: #1FDA9A;
+  text-align: center;
+}
+.text {
+  font-family: 'Fauna One', serif;
+  color: #333435;
+  text-align: center;
+}

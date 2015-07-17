@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Kristen ITC";
+  src: url("KristenITC.ttf") format('truetype');
+}
+.title {
+  font-family: 	"Comic Sans MS", cursive, sans-serif;
+  color: white;
+  text-align: center;
+}
+body {
+  background-color: green;
+  text-align: right
+  <!-- DO BOOTSTRAP FOR ALIGNMENT -->
+}
+.picture {
+  background-color: orange;
+  width: 400px;
+  height: 400px;
+  float: left;
+}
+.greeter {
+  font-family: 	"Comic Sans MS", cursive, sans-serif;
+  color: blue;
+}
+.text {
+  font-family: 	"Comic Sans MS", cursive, sans-serif; 
+  color: yellow;
+  text-align: right;
+}
